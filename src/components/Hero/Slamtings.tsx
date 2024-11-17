@@ -5,7 +5,7 @@ const Slamtings = () => {
   return (
     <div className="flex gap-0 align-bottom">
         <div className="cursor-pointer">
-            <div className="absolute -z-10 w-32 -bottom-10 h-60 bg-p2 rounded-br-[10rem]"></div>
+            {/*<div className="absolute -z-10 w-32 -bottom-10 h-60 bg-[#2D3F6D] rounded-br-[10rem]"></div>*/}
             <img src={Image} className="h-56" />
         </div>
         <div className="flex flex-col justify-end h-56">
